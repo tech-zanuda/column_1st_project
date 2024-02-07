@@ -1,16 +1,9 @@
-# flutter_application_1_raimulla_popov
+# Column
 
-A new Flutter project.
+## Верстка колонки
 
-## Getting Started
+* Контейнеры растягиваются в зависимости от ширины и высоты текущего экрана
 
-This project is a starting point for a Flutter application.
+<img width="845" alt="Снимок экрана 2024-02-07 в 10 03 33" src="https://github.com/tech-zanuda/column_1st_project/assets/145598465/fa9bf9ac-eb78-4d05-bf2e-8394a4b81c99">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="504" alt="image" src="https://github.com/tech-zanuda/column_1st_project/assets/145598465/b8c6e5ad-73f0-40fa-8112-e774f3af3b85">
